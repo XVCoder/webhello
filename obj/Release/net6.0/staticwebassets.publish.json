@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "f5KzAURBQW3tSXAxMbKdetvLtWf/Y1LRE7hRfkcD4r0=",
+  "Source": "webhello",
+  "BasePath": "_content/webhello",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

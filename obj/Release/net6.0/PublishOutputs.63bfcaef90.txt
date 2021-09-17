@@ -1,0 +1,7 @@
+/root/NetProjects/webhello/bin/Release/net6.0/publish/webhello
+/root/NetProjects/webhello/bin/Release/net6.0/publish/appsettings.Development.json
+/root/NetProjects/webhello/bin/Release/net6.0/publish/appsettings.json
+/root/NetProjects/webhello/bin/Release/net6.0/publish/webhello.dll
+/root/NetProjects/webhello/bin/Release/net6.0/publish/webhello.deps.json
+/root/NetProjects/webhello/bin/Release/net6.0/publish/webhello.runtimeconfig.json
+/root/NetProjects/webhello/bin/Release/net6.0/publish/webhello.pdb
